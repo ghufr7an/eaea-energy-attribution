@@ -36,6 +36,36 @@ python ../code/case_study.py
 
 All service-level results are simulated. The simulated reference shares EAEA's cost structure, so its advantage is partly built in. The A to D report categories describe evidence completeness, not error size. See Section 8 of the paper. No measured per-service energy is included.
 
+## Publication
+
+**Research preprint**
+
+Shakeel, G. (2026). *Who Pays for the Bit? Evidence-Aware Energy
+Attribution Across Shared 5G and 6G Network Infrastructure*.
+Zenodo. https://doi.org/10.5281/zenodo.23695223
+
+**Research software**
+
+EAEA: Evidence-Aware Energy Attribution — Research Code and
+Reproducible Experiments (v1.0.0).
+
+Software DOI: https://doi.org/10.5281/zenodo.23695070
+
+### DOI Badges
+
+[![Preprint DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23695223.svg)](https://doi.org/10.5281/zenodo.23695223)
+
+[![Software DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23695070.svg)](https://doi.org/10.5281/zenodo.23695070)
+
+### Research Status
+
+This manuscript is a publicly available, non-peer-reviewed preprint.
+
+The computational experiments use simulated service-level energy
+data. The proposed framework has not been validated using measured
+per-service energy consumption from commercial telecommunications
+networks.
+
 ## Licence
 
 Code: MIT. Paper: CC BY 4.0 (when posted on Zenodo).
