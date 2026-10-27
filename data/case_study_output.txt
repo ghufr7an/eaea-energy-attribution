@@ -1,0 +1,17 @@
+
+load=0.1: P=711.8 W, baseline share=85.0%, energy/h=0.712 kWh
+  eMBB   traffic= 498.2  equal-base= 276.4  reserved-base= 377.2  bounds=[  74.7, 679.7] W  max/min policy ratio=1.80
+  mMTC   traffic= 142.4  equal-base= 223.0  reserved-base= 142.4  bounds=[  21.4, 626.4] W  max/min policy ratio=1.57
+  URLLC  traffic=  71.2  equal-base= 212.3  reserved-base= 192.2  bounds=[  10.7, 615.7] W  max/min policy ratio=2.98
+
+load=0.3: P=925.3 W, baseline share=65.4%, energy/h=0.925 kWh
+  eMBB   traffic= 647.7  equal-base= 425.9  reserved-base= 526.7  bounds=[ 224.2, 829.2] W  max/min policy ratio=1.52
+  mMTC   traffic= 185.1  equal-base= 265.7  reserved-base= 185.1  bounds=[  64.1, 669.1] W  max/min policy ratio=1.44
+  URLLC  traffic=  92.5  equal-base= 233.7  reserved-base= 213.5  bounds=[  32.0, 637.0] W  max/min policy ratio=2.53
+
+load=0.6: P=1245.6 W, baseline share=48.6%, energy/h=1.246 kWh
+  eMBB   traffic= 871.9  equal-base= 650.1  reserved-base= 750.9  bounds=[ 448.4,1053.4] W  max/min policy ratio=1.34
+  mMTC   traffic= 249.1  equal-base= 329.8  reserved-base= 249.1  bounds=[ 128.1, 733.1] W  max/min policy ratio=1.32
+  URLLC  traffic= 124.6  equal-base= 265.7  reserved-base= 245.6  bounds=[  64.1, 669.1] W  max/min policy ratio=2.13
+independent loads: rank=4 of 4 columns, cond=32.8
+service 3 proportional to service 1: rank=3 of 4 columns, cond=2.9e+16
