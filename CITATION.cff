@@ -1,27 +1,10 @@
-cff-version: 1.2.0
-message: "If you use this software or the accompanying paper, please cite it as below."
-title: "EAEA: Evidence-Aware Energy Attribution (reference implementation and data)"
-type: software
-authors:
-  - family-names: Shakeel
-    given-names: Ghufran
-    orcid: "https://orcid.org/0009-0006-3683-8405"
-    affiliation: "Independent researcher"
-license: MIT
-repository-code: "https://github.com/ghufr7an/eaea-energy-attribution"
-keywords:
-  - energy attribution
-  - network slicing
-  - 5G
-  - 6G
-  - telecommunications
-  - reproducible research
-# After you publish the paper on Zenodo, uncomment and fill in the DOI:
-# preferred-citation:
-#   type: article
-#   title: "Who Pays for the Bit? Evidence-Aware Energy Attribution Across Shared 5G and 6G Network Infrastructure"
-#   authors:
-#     - family-names: Shakeel
-#       given-names: Ghufran
-#   year: 2026
-#   doi: "10.5281/zenodo.REPLACE_WITH_PAPER_DOI"
+preferred-citation:
+  type: article
+  title: "Who Pays for the Bit? Evidence-Aware Energy Attribution Across Shared 5G and 6G Network Infrastructure"
+  authors:
+    - family-names: Shakeel
+      given-names: Ghufran
+      orcid: "https://orcid.org/0009-0006-3683-8405"
+  year: 2026
+  doi: "10.5281/zenodo.23695223"
+  url: "https://doi.org/10.5281/zenodo.23695223"
