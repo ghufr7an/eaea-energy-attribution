@@ -1,3 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this research, please cite the accompanying preprint."
+type: software
+
+title: "EAEA: Evidence-Aware Energy Attribution"
+version: "1.0.0"
+
+authors:
+  - family-names: Shakeel
+    given-names: Ghufran
+    orcid: "https://orcid.org/0009-0006-3683-8405"
+
+doi: "10.5281/zenodo.23695070"
+repository-code: "https://github.com/ghufr7an/eaea-energy-attribution"
+
+license: MIT
+
 preferred-citation:
   type: article
   title: "Who Pays for the Bit? Evidence-Aware Energy Attribution Across Shared 5G and 6G Network Infrastructure"
