@@ -30,7 +30,7 @@ python ../code/case_study.py
 ## Key results (synthetic)
 
 - In the 72,000-trial computational study, EAEA reported a mean allocation error of 0.046 over 59,891 eligible trials. Traffic-proportional and resource-weighted allocation produced mean errors of 0.271 and 0.200, respectively, across all 72,000 trials. These figures use different evaluation populations and should not be interpreted as a matched-sample comparison.
-- - In the additional 24,000-trial computational study incorporating
+- In the additional 24,000-trial computational study incorporating
   published idle-power shares, the reported mean allocation errors
   were 0.049 for EAEA, 0.315 for traffic-proportional allocation,
   and 0.268 for resource-weighted allocation. These results should
