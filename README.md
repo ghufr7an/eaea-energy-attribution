@@ -2,7 +2,8 @@
 
 Reference implementation and data for the preprint **"Who Pays for the Bit? Evidence-Aware Energy Attribution Across Shared 5G and 6G Network Infrastructure"** by Ghufran Shakeel.
 
-Paper: `paper/Shakeel_Who_Pays_for_the_Bit_preprint.pdf` | Preprint DOI: *(add after publishing on Zenodo)*
+**Paper:** [Read the preprint](paper/Shakeel_Who_Pays_for_the_Bit_preprint.pdf) |
+**Preprint DOI:** [10.5281/zenodo.23695223](https://doi.org/10.5281/zenodo.23695223)
 
 ## The question
 
