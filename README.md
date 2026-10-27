@@ -69,4 +69,5 @@ networks.
 
 ## Licence
 
-Code: MIT. Paper: CC BY 4.0 (when posted on Zenodo).
+Code: MIT. Research preprint and supplementary material:
+Creative Commons Attribution 4.0 International (CC BY 4.0).
