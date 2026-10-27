@@ -1,0 +1,9 @@
+{
+  "title": "EAEA: Evidence-Aware Energy Attribution - reference implementation and data",
+  "upload_type": "software",
+  "description": "Python reference implementation (numpy only), fixed-seed synthetic evaluation and deterministic case study accompanying the preprint 'Who Pays for the Bit? Evidence-Aware Energy Attribution Across Shared 5G and 6G Network Infrastructure'. All service-level results are synthetic; the only published measurements used are a macro base-station power model and a server idle-power figure.",
+  "creators": [{"name": "Shakeel, Ghufran", "affiliation": "Independent researcher", "orcid": "0009-0006-3683-8405"}],
+  "license": "MIT",
+  "access_right": "open",
+  "keywords": ["energy attribution", "network slicing", "5G", "6G", "telecommunications", "reproducible research", "energy efficiency"]
+}
